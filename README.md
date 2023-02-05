@@ -10,7 +10,7 @@ https://wonderful-choux-93af66.netlify.app/
 <h2>Team Members</h2>
 1.Saurav Mallik(Leader) <br>
 2.Rajesh Ranjan <br>
-3.Prateek BhattaCharya <br>
+3.Prateek Bhattacharya <br>
 4.Avinash Kalmegh <br>
 5.Saurabh Pawar <br>
  
